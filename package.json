@@ -1,0 +1,18 @@
+{
+  "name": "bq-restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/bigquery": "^5.7.0",
+    "@google-cloud/storage": "^5.11.0",
+    "axios": "^0.21.1",
+    "csv-writer": "^1.6.0",
+    "json2csv": "^5.0.6"
+  }
+}
